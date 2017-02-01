@@ -1,0 +1,18 @@
+Loaded plugins: fastestmirror, langpacks
+Loading mirror speeds from cached hostfile
+
+ceph.x86_64                               1:11.2.0-0.el7                    ceph
+ceph-base.x86_64                          1:11.2.0-0.el7                    ceph
+ceph-common.x86_64                        1:11.2.0-0.el7                    ceph
+ceph-mds.x86_64                           1:11.2.0-0.el7                    ceph
+ceph-mon.x86_64                           1:11.2.0-0.el7                    ceph
+ceph-osd.x86_64                           1:11.2.0-0.el7                    ceph
+ceph-selinux.x86_64                       1:11.2.0-0.el7                    ceph
+libcephfs1.x86_64                         1:11.0.2-0.el7                    ceph
+librados2.x86_64                          1:11.2.0-0.el7                    ceph
+libradosstriper1.x86_64                   1:11.2.0-0.el7                    ceph
+librbd1.x86_64                            1:11.2.0-0.el7                    ceph
+librgw2.x86_64                            1:11.2.0-0.el7                    ceph
+python-cephfs.x86_64                      1:11.2.0-0.el7                    ceph
+python-rados.x86_64                       1:11.2.0-0.el7                    ceph
+python-rbd.x86_64                         1:11.2.0-0.el7                    ceph
